@@ -1,5 +1,5 @@
 # Kubernetes
-This repository is designed for beginners who want to learn more about Kubernetes.
+
 
 
 # Learning Journey<br>  
@@ -19,8 +19,8 @@ This repository is designed for beginners who want to learn more about Kubernete
 6. K8s Ingress  
 7. Helm - Package Manager  
 8. Volume - Persisting data in K8s  
-12. K8s StatefulSet - Deploying Stateful Apps.  
-13. K8s Services.  
+9. K8s StatefulSet - Deploying Stateful Apps.  
+10. K8s Services.  
 </i>  
 Thank you for visiting my Kubernetes learning journey! I hope you find the content useful.
 
